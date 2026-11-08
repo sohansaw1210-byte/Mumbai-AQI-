@@ -14,7 +14,7 @@ python mumbai_aqi.py --demo     # offline test on synthetic data
 
 Open `index.html` in a browser for the map. It has an hour slider and a play button.
 
-**Live demo:** _(paste your GitHub Pages link here)_
+**Live demo:** https://github.com/sohansaw1210-byte/Mumbai-AQI-
 
 The script also runs in Google Colab: paste it into one cell and run it.
 
